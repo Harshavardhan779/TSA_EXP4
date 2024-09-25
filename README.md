@@ -82,16 +82,16 @@ plt.show()
 
 ### OUTPUT:
  1. Dataset:
- ![alt text](image.png)
-
+![output](/4.1.png)
  2. ADF and P values:
- ![alt text](image-1.png)
+![output](/4.2.png)
+
 
  3. Model summary: 
-  ![alt text](image-2.png)
+![output](/4.3.png)
 
   4. ARMA Model:
-  ![alt text](image-3.png)
+![output](/4.4.png)
 
 
 
